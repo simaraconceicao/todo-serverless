@@ -1,0 +1,13 @@
+TODO:
+
+[x] importar as funçoes como path no serverless
+  [x] createTodo
+  [x] listTodosByUser
+[x] instalar o dynamoDB
+[x] criar config do dynamoDB
+[x] instalar e configurar no serverless.ts plugin offline e dynamo offline
+[x] criar scripts
+[x] pensar em como pegar a data de deadline (dayjs?)
+[ ] pensar em como gerar uuid 
+[x] finalizar e testar rota de create
+[ ] finalizar e testar rota de list
