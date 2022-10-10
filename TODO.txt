@@ -8,6 +8,6 @@ TODO:
 [x] instalar e configurar no serverless.ts plugin offline e dynamo offline
 [x] criar scripts
 [x] pensar em como pegar a data de deadline (dayjs?)
-[ ] pensar em como gerar uuid 
+[x] pensar em como gerar uuid 
 [x] finalizar e testar rota de create
-[ ] finalizar e testar rota de list
+[x] finalizar e testar rota de list
